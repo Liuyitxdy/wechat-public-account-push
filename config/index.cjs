@@ -36,11 +36,8 @@ const USER_CONFIG = {
           type: '生日', name: '秦猪', year: '2003', date: '2.26',
         },
         {
-          type: '节日', name: '相识纪念日', year: '2022', date: '11-06',
+          type: '节日', name: '春节', year: '2023', date: '01-21',
         },
-        {
-          type: '春节', name: '除夕', year: '2023', date: '01-21',
-        }
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
@@ -54,7 +51,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '	JHSR5r1Q2NuHuQrJ5PQ88lcFqrxMDOlfssDuF5-lnhg',
+  CALLBACK_TEMPLATE_ID: 'JHSR5r1Q2NuHuQrJ5PQ88lcFqrxMDOlfssDuF5-lnhg',
 
   CALLBACK_USERS: [
     {
